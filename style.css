@@ -1,0 +1,41 @@
+.contenidor {
+    display: flex;
+    justify-content: space-between;
+    float: left;
+}
+
+.caixa {
+    min-width: 100px; 
+    margin: 10px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    
+}
+
+.vermella{
+    background-color: rgb(225, 241, 74);
+   
+}
+
+.lila {
+    background-color: rgb(117, 58, 141);
+   
+}
+
+.blava {
+    background-color: blue;
+}
+
+.ocea {
+    background-color: rgb(3, 241, 222);
+}
+
+.rosa {
+    background-color: rgb(228, 0, 178);
+    
+}
+
+
